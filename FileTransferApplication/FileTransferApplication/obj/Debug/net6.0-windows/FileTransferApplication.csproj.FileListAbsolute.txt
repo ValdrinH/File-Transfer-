@@ -1,0 +1,16 @@
+C:\Users\AV Computer\source\repos\FileTransferApplication\FileTransferApplication\obj\Debug\net6.0-windows\FileTransferApplication.Form1.resources
+C:\Users\AV Computer\source\repos\FileTransferApplication\FileTransferApplication\obj\Debug\net6.0-windows\FileTransferApplication.csproj.GenerateResource.cache
+C:\Users\AV Computer\source\repos\FileTransferApplication\FileTransferApplication\obj\Debug\net6.0-windows\FileTransferApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AV Computer\source\repos\FileTransferApplication\FileTransferApplication\obj\Debug\net6.0-windows\FileTransferApplication.AssemblyInfoInputs.cache
+C:\Users\AV Computer\source\repos\FileTransferApplication\FileTransferApplication\obj\Debug\net6.0-windows\FileTransferApplication.AssemblyInfo.cs
+C:\Users\AV Computer\source\repos\FileTransferApplication\FileTransferApplication\obj\Debug\net6.0-windows\FileTransferApplication.csproj.CoreCompileInputs.cache
+C:\Users\AV Computer\source\repos\FileTransferApplication\FileTransferApplication\bin\Debug\net6.0-windows\FileTransferApplication.exe
+C:\Users\AV Computer\source\repos\FileTransferApplication\FileTransferApplication\bin\Debug\net6.0-windows\FileTransferApplication.deps.json
+C:\Users\AV Computer\source\repos\FileTransferApplication\FileTransferApplication\bin\Debug\net6.0-windows\FileTransferApplication.runtimeconfig.json
+C:\Users\AV Computer\source\repos\FileTransferApplication\FileTransferApplication\bin\Debug\net6.0-windows\FileTransferApplication.dll
+C:\Users\AV Computer\source\repos\FileTransferApplication\FileTransferApplication\bin\Debug\net6.0-windows\FileTransferApplication.pdb
+C:\Users\AV Computer\source\repos\FileTransferApplication\FileTransferApplication\obj\Debug\net6.0-windows\FileTransferApplication.dll
+C:\Users\AV Computer\source\repos\FileTransferApplication\FileTransferApplication\obj\Debug\net6.0-windows\refint\FileTransferApplication.dll
+C:\Users\AV Computer\source\repos\FileTransferApplication\FileTransferApplication\obj\Debug\net6.0-windows\FileTransferApplication.pdb
+C:\Users\AV Computer\source\repos\FileTransferApplication\FileTransferApplication\obj\Debug\net6.0-windows\FileTransferApplication.genruntimeconfig.cache
+C:\Users\AV Computer\source\repos\FileTransferApplication\FileTransferApplication\obj\Debug\net6.0-windows\ref\FileTransferApplication.dll
